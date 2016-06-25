@@ -1,7 +1,7 @@
 > meteorhacks:ssr
 
 > meteor add email  
-```meteor
+```php
 Email.send({
       to: to,
       from: from,
