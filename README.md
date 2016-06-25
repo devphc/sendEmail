@@ -1,6 +1,6 @@
-# meteorhacks:ssr
+meteorhacks:ssr
 
-# meteor add email  
+meteor add email  
 ```
 Email.send({
       to: to,
