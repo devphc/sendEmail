@@ -1,0 +1,111 @@
+header {
+    margin-bottom: 0.9rem;
+}
+
+.header {
+    width: 100%;
+    background: #f18b00;
+    height: 0.9rem;
+    line-height: 0.9rem;
+    text-align: center;
+    font-size: 0.32rem;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+
+.left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #fff;
+    display: block;
+    width: 0.9rem;
+    text-align: left;
+    font-size: 0.28rem;
+    padding-left: 0.3rem;
+}
+
+.header-img {
+    width: 100%;
+    height: 13.34rem;
+    background-image: url(/index.png);
+    background-size: 100% 100%;
+}
+
+.applyBtn {
+    position: absolute;
+    width: 3.53rem;
+    height: 0.91rem;
+    background-image: url(/button.png);
+    background-size: cover;
+    z-index: 99999;
+    top:3.9rem;
+    left: 2rem;
+}
+
+.xia{
+    width: 3.5rem;
+    height: 0.8rem;
+    position: absolute;
+    bottom: 4.0rem;
+    left: 2rem;
+}
+
+.confirm {
+    z-index: 9999;
+    position: absolute;
+    width: 4.0rem;
+    height: 3rem;
+    top: 50%;
+    margin-top: -1.5rem;
+    margin-top: -6.6.31rem;
+    left: 50%;
+    margin-left: -2.0rem;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.confirm-wenzi {
+    padding: 0.35rem;
+    width: 100%;
+    height: 2.28rem;
+    text-align: center;
+    border-bottom: 1px #efefef solid;
+    letter-spacing: 1px;
+}
+
+.div {
+    width: 50%;
+    height: 0.72rem;
+    line-height: 0.72rem;
+    text-align: center;
+    border-right: 1px #efefef solid;
+    float: left;
+}
+
+.con-con {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .6);
+    display: none;
+    font-size: 0.28rem;
+}
+.votes{
+    width: 100%;
+    font-size: .4rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #f3a127;
+    z-index: 999;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    padding: .3rem 0;
+}

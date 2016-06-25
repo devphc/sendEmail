@@ -1,0 +1,18 @@
+netstat   -anp   |   grep  node
+meteor build --server="http://jiac.fami2u.com" /workspace/jiac/build
+nohup env PORT=80 MONGO_URL="mongodb://localhost:27017/jiac"  ROOT_URL="http://jiac.fami2u.com/" node main.js > /alidata/logs/jiac.log 2>&1 &
+
+
+/alidata/www/jiac-wechat
+
+PORT=3002 MONGO_URL="mongodb://123.56.72.95:27017/bjwc" ROOT_URL="http://jiac.fami2u.com" pm2 start main.js --name="jiac" --watch
+
+JPUSH:
+AppKey		6953089cfd6767dba36da835
+Master Secret		314064e19f56b428983fa3c7 
+
+meteor run ios-device  --mobile-server="http://192.168.199.217:3000"
+
+
+wxcc51c4d7cbe33328
+AppSecret(应用密钥)1815f79a4935349bd55feaec3d43eb35
