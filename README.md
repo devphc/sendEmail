@@ -1,4 +1,4 @@
-## meteorhacks:ssr
+## [meteorhacks:ssr](www.baidu.com)
 
 ## meteor add email  
 ```javascript
