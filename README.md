@@ -1,8 +1,8 @@
 ## 支持的包
 
-－ [meteorhacks:ssr](https://github.com/meteorhacks/meteor-ssr)
+[meteor add meteorhacks:ssr](https://github.com/meteorhacks/meteor-ssr)
 
-－ [meteor add email](http://docs.meteor.com/api/email.html)  
+[meteor add email](http://docs.meteor.com/api/email.html)  
 ```javascript
 Email.send({
       to: to,
