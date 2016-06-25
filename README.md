@@ -1,9 +1,9 @@
 # sendEmail
 
 ```
-meteorhacks:ssr
+### meteorhacks:ssr
 
-meteor email  
+### meteor add email  
 
 Email.send({
       to: args.email,
