@@ -1,6 +1,6 @@
-## [meteorhacks:ssr](www.baidu.com)
+[meteorhacks:ssr](https://github.com/meteorhacks/meteor-ssr)
 
-## meteor add email  
+[meteor add email](http://docs.meteor.com/api/email.html)  
 ```javascript
 Email.send({
       to: to,
