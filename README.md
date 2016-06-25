@@ -1,5 +1,3 @@
-# sendEmail
-
 # meteorhacks:ssr
 
 # meteor add email  
